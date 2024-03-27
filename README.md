@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**lukaszkups/lukaszkups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![User](https://img.shields.io/badge/I_am-lukasz_kups-ecbd29?style=flat-square)
+[![Mastodon](https://img.shields.io/badge/Mastodon-lukaszkups-5e54eb?logo=mastodon&logoColor=ffffff&style=flat-square)](https://mastodon.social/@lukaszkups)
+[![Website](https://img.shields.io/badge/www-lukaszkups.net-ecbd29?style=flat-square)](https://lukaszkups.net)
+[![Steam](https://img.shields.io/badge/Steam-lukaszkups.net-black?style=flat-square)](https://store.steampowered.com/search/?publisher=lukaszkups.net)
+[![Itch.io](https://img.shields.io/badge/itch.io-lukaszkups-fa5c5c?style=flat-square)](https://lukaszkups.itch.io)
+[![Xitter](https://img.shields.io/badge/xitter-lukaszkups-blue?logo=x&logoColor=ffffff&style=flat-square)](https://twitter.com/lukaszkups)
+[![Medium](https://img.shields.io/badge/Medium-@89bits-34aa47?style=flat-square)](https://medium.com/@89bits)
 
-Here are some ideas to get you started:
+I'm Łukasz Kupś - a web developer from Poland with 14+ years of experience working on client & server side of web applications.
+I love creating nice and useful things for the Internet people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=lukaszkups&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=ecbd29&icon_color=ecbd29)<br/>
+
+![](https://komarev.com/ghpvc/?username=lukaszkups&color=green)
