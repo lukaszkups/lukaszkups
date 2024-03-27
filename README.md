@@ -4,6 +4,7 @@ I'm Łukasz Kupś - a web developer from Poland with 14+ years of experience wor
 I love creating nice and useful things for the Internet people.
 
 [![Website](https://img.shields.io/badge/www-lukaszkups.net-ecbd29?style=flat-square)](https://lukaszkups.net)
+[![Medium](https://img.shields.io/badge/Linkedin-in/lukaszkups-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/lukaszkups)
 [![Mastodon](https://img.shields.io/badge/Mastodon-lukaszkups-5e54eb?logo=mastodon&logoColor=ffffff&style=flat-square)](https://mastodon.social/@lukaszkups)
 [![Steam](https://img.shields.io/badge/Steam-lukaszkups.net-black?style=flat-square)](https://store.steampowered.com/search/?publisher=lukaszkups.net)
 [![Itch.io](https://img.shields.io/badge/itch.io-lukaszkups-fa5c5c?style=flat-square)](https://lukaszkups.itch.io)
