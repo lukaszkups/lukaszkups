@@ -8,7 +8,6 @@ I love creating nice and useful things for the Internet people.
 [![Mastodon](https://img.shields.io/badge/Mastodon-lukaszkups-5e54eb?logo=mastodon&logoColor=ffffff&style=flat-square)](https://mastodon.social/@lukaszkups)
 [![Steam](https://img.shields.io/badge/Steam-lukaszkups.net-black?logo=steam&logoColor=ffffff&style=flat-square)](https://store.steampowered.com/search/?publisher=lukaszkups.net)
 [![Itch.io](https://img.shields.io/badge/itch.io-lukaszkups-fa5c5c?logo=itch.io&logoColor=ffffff&style=flat-square)](https://lukaszkups.itch.io)
-[![Medium](https://img.shields.io/badge/Medium-@89bits-34aa47?logo=medium&logoColor=ffffff&style=flat-square)](https://medium.com/@89bits)
 [![Xitter](https://img.shields.io/badge/xitter-lukaszkups-blue?logo=x&logoColor=ffffff&style=flat-square)](https://twitter.com/lukaszkups)
 
 ![](https://github-readme-stats.vercel.app/api?username=lukaszkups&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=ecbd29&icon_color=ecbd29)<br/>
