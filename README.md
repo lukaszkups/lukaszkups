@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Łukasz Kupś - a web developer from Poland with 14+ years of experience working on client & server side of web applications.
+I'm Łukasz Kupś - a web developer from Poland with 15+ years of experience working on client & server side of web applications.
 I love creating nice and useful things for the Internet people.
 
 [![Website](https://img.shields.io/badge/www-lukaszkups.net-ecbd29?style=flat-square)](https://lukaszkups.net)
