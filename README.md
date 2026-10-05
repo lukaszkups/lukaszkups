@@ -9,7 +9,4 @@ I love creating nice and useful things for the Internet people.
 [![Steam](https://img.shields.io/badge/Steam-lukaszkups.net-black?logo=steam&logoColor=ffffff&style=flat-square)](https://store.steampowered.com/search/?publisher=lukaszkups.net)
 [![Itch.io](https://img.shields.io/badge/itch.io-lukaszkups-fa5c5c?logo=itch.io&logoColor=ffffff&style=flat-square)](https://lukaszkups.itch.io)
 [![Xitter](https://img.shields.io/badge/xitter-lukaszkups-blue?logo=x&logoColor=ffffff&style=flat-square)](https://twitter.com/lukaszkups)
-
-![](https://github-readme-stats.vercel.app/api?username=lukaszkups&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&title_color=ecbd29&icon_color=ecbd29)<br/>
-
 ![](https://komarev.com/ghpvc/?username=lukaszkups&color=green)
